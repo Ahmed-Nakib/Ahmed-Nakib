@@ -189,23 +189,110 @@ Fun Fact:
 
 ---
 
-<!-- ===================================================== -->
-<!--                FEATURED PROJECTS                      -->
-<!-- ===================================================== -->
-
 # 🚀 Featured Projects
 
-| 🚀 Project | 📝 Description | 🛠️ Technologies |
-|------------|----------------|-----------------|
-| 🛍️ **Bagddash** | Modern Fashion E-Commerce Platform | Next.js • TypeScript • Redux Toolkit • Tailwind CSS |
-| 🩸 **BloodLink** | Smart Blood Donation Platform | Next.js • Prisma ORM • PostgreSQL • Node.js |
-| 🎓 **Learn With Nakib** | Modern Learning Management Platform | React • Node.js • Express |
-| 🔧 **FixItNow** | Home Service Marketplace | Express • Prisma • PostgreSQL |
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🛍️ Bagddash
+
+> Modern Fashion E-Commerce Platform
+
+**Tech Stack**
+
+`Next.js` `TypeScript` `Redux Toolkit` `Tailwind CSS`
+
+<br>
+
+<a href="YOUR_LIVE_URL">
+<img src="https://img.shields.io/badge/🌐 Live Demo-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_GITHUB_REPO">
+<img src="https://img.shields.io/badge/📂 Source Code-181717?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🩸 BloodLink
+
+> AI-powered Blood Donation Platform
+
+**Tech Stack**
+
+`Next.js` `Prisma` `PostgreSQL` `Node.js`
+
+<br>
+
+<a href="YOUR_LIVE_URL">
+<img src="https://img.shields.io/badge/🌐 Live Demo-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_GITHUB_REPO">
+<img src="https://img.shields.io/badge/📂 Source Code-181717?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎓 Learn With Nakib
+
+> Modern Learning Management Platform
+
+**Tech Stack**
+
+`React` `Node.js` `Express`
+
+<br>
+
+<a href="YOUR_LIVE_URL">
+<img src="https://img.shields.io/badge/🌐 Live Demo-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_GITHUB_REPO">
+<img src="https://img.shields.io/badge/📂 Source Code-181717?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔧 FixItNow
+
+> Home Service Marketplace
+
+**Tech Stack**
+
+`Express` `Prisma` `PostgreSQL`
+
+<br>
+
+<a href="YOUR_LIVE_URL">
+<img src="https://img.shields.io/badge/🌐 Live Demo-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_GITHUB_REPO">
+<img src="https://img.shields.io/badge/📂 Source Code-181717?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 <p align="center">
-<i>More exciting projects are coming soon... 🚀</i>
+💡 <i>More exciting projects are coming soon...</i> 🚀
 </p>
 
 ---
