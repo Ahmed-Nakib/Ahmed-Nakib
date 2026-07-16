@@ -39,13 +39,10 @@
 </div>
 
 
-<div align="center">
-
-# 🏆 GitHub Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Nakib&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"/>
-
-</div>
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Nakib&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Ahmed-Nakib&theme=tokyonight&hide_border=true"/>
+</p>
 
 
 
