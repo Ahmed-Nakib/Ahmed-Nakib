@@ -106,3 +106,106 @@ Fun Fact:
 - 💬 Ask me about **React, Next.js, TypeScript & Tailwind CSS**
 
 ---
+<!-- ===================================================== -->
+<!--                  TECH STACK                           -->
+<!-- ===================================================== -->
+
+# 💻 Tech Stack
+
+## 🎨 Frontend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite" />
+</p>
+
+---
+
+## ⚙️ Backend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+---
+
+## 🗄️ Database & ORM
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma" />
+</p>
+
+---
+
+## ☁️ Cloud & Deployment
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,vercel,docker" />
+</p>
+
+---
+
+## 🛠️ Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,bash" />
+</p>
+
+---
+
+## 🎨 Design Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps" />
+</p>
+
+---
+
+<!-- ===================================================== -->
+<!--                GITHUB ANALYTICS                       -->
+<!-- ===================================================== -->
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Nakib&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=Ahmed-Nakib&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Nakib&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</p>
+
+---
+
+<!-- ===================================================== -->
+<!--             CONTRIBUTION GRAPH                        -->
+<!-- ===================================================== -->
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Nakib&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
+---
+
+<!-- ===================================================== -->
+<!--                FEATURED PROJECTS                      -->
+<!-- ===================================================== -->
+
+# 🚀 Featured Projects
+
+| 🚀 Project | 📝 Description | 🛠️ Technologies |
+|------------|----------------|-----------------|
+| 🛍️ **Bagddash** | Modern Fashion E-Commerce Platform | Next.js • TypeScript • Redux Toolkit • Tailwind CSS |
+| 🩸 **BloodLink** | Smart Blood Donation Platform | Next.js • Prisma ORM • PostgreSQL • Node.js |
+| 🎓 **Learn With Nakib** | Modern Learning Management Platform | React • Node.js • Express |
+| 🔧 **FixItNow** | Home Service Marketplace | Express • Prisma • PostgreSQL |
+
+---
+
+<p align="center">
+<i>More exciting projects are coming soon... 🚀</i>
+</p>
+
+---
