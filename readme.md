@@ -1,9 +1,16 @@
-# 🌟 Hi there, I'm **Ahmed Nakib!** 👋
+<p align="center">
+  <img src="./assets/banner.png" alt="Ahmed Nakib Banner" width="100%" />
+</p>
 
-## Frontend Developer | React • TypeScript • Next.js • Tailwind CSS
+<h1 align="center">👋 Hi, I'm Ahmed Nakib</h1>
 
 <p align="center">
-  <img src="assets/banner.png" width="full" />
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+TypeScript+%7C+Next.js;Building+Modern+Web+Applications;Always+Learning+New+Technologies"
+      alt="Typing SVG"
+    />
+  </a>
 </p>
 
 ---
