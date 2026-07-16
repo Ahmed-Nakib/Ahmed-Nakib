@@ -89,3 +89,31 @@
 <p align="center">
   <i>"Code it beautifully, build it smartly, and ship it proudly."</i> 🚀
 </p>
+
+
+---
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=220&section=header&text=Always%20Learning%20•%20Always%20Building&fontSize=36&fontColor=ffffff&animation=fadeIn" width="100%" />
+</p>
+
+<p align="center">
+
+🌱 <b>Currently Learning</b><br>
+Advanced TypeScript • Next.js • Backend Architecture
+
+🎯 <b>Goal</b><br>
+Become a Professional Full-Stack Web Developer
+
+🎨 <b>Design Tools</b><br>
+Figma • Adobe XD
+
+</p>
+
+<p align="center">
+  <sub><i>"Code it beautifully, build it smartly, and ship it proudly."</i> 🚀</sub>
+</p>
+
+---
