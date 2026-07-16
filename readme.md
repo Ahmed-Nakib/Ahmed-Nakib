@@ -39,13 +39,6 @@
 </div>
 
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Nakib&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://streak-stats.demolab.com?user=Ahmed-Nakib&theme=tokyonight&hide_border=true"/>
-</p>
-
-
-
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
