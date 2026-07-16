@@ -160,30 +160,24 @@ Fun Fact:
 
 ---
 
-## 🌐 Connect With Me
+<h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
 
 <a href="https://github.com/Ahmed-Nakib">
-<img src="https://skillicons.dev/icons?i=github" height="52"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/nakibulislam2003">
-<img src="https://skillicons.dev/icons?i=linkedin" height="52"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-&nbsp;&nbsp;
 
 <a href="https://www.facebook.com/mohiuddin.nakib.9">
-<img src="https://skillicons.dev/icons?i=facebook" height="52"/>
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-&nbsp;&nbsp;
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="52"/>
+<a href="office.nakib@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
