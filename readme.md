@@ -39,8 +39,13 @@
 </div>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ahmed-Nakib&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+
+# 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Nakib&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
 
 
 
