@@ -3,7 +3,7 @@
 ## Frontend Developer | React • TypeScript • Next.js • Tailwind CSS
 
 <p align="center">
-  <img src="assets/banner.png" width="400" />
+  <img src="assets/banner.png" width="full" />
 </p>
 
 ---
