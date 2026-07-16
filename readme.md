@@ -157,69 +157,44 @@ Fun Fact:
 | 🔧 **FixItNow** | Home Service Marketplace | Express • Prisma • PostgreSQL |
 
 ---
-<!-- ========================= -->
-<!--      ACHIEVEMENTS         -->
-<!-- ========================= -->
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Nakib&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" />
-</p>
 
 ---
 
-# 🌐 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/Ahmed-Nakib" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
-</a>
-
-<a href="https://www.linkedin.com/in/nakibulislam2003/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
-</a>
-
-<a href="https://www.facebook.com/mohiuddin.nakib.9" target="_blank">
-<img src="https://skillicons.dev/icons?i=facebook" height="55"/>
-</a>
-
-<a href="mailto:your@email.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
-</a>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Ahmed-Nakib/Ahmed-Nakib/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</p>
-
----
-
-# ☕ Support Me
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/Ahmed-Nakib">
-<img src="https://img.shields.io/badge/Follow%20Me-GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github" height="52"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/nakibulislam2003">
+<img src="https://skillicons.dev/icons?i=linkedin" height="52"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.facebook.com/mohiuddin.nakib.9">
+<img src="https://skillicons.dev/icons?i=facebook" height="52"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="52"/>
 </a>
 
 </p>
 
 ---
 
-# 👀 Profile Views
+## 👀 Profile Views
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Ahmed-Nakib&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=Ahmed-Nakib&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
 
 </p>
 
@@ -227,16 +202,19 @@ Fun Fact:
 
 <p align="center">
 
-> 💡 *"Code it beautifully, build it smartly, and ship it proudly."*
+<i>💡 Code it beautifully, build it smartly, and ship it proudly.</i>
 
 </p>
 
 ---
 
 <h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
+⭐ Thanks for visiting my profile ⭐
 </h3>
 
+<p align="center">
+If you like my work, consider giving a ⭐ to my repositories.
+</p>
 <p align="center">
 If you like my work, don't forget to ⭐ my repositories.
 </p>
