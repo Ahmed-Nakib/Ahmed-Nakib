@@ -85,3 +85,75 @@ Fun Fact:
 ```
 
 ---
+<!-- ========================= -->
+<!--      TECH STACK           -->
+<!-- ========================= -->
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,postgres,prisma,mysql,firebase,git,github,vscode,figma,vercel,docker"/>
+
+</p>
+
+---
+
+# 🚀 Featured Technologies
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Framework-Next.js-000000?style=for-the-badge&logo=next.js"/>
+
+<img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Nakib&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=Ahmed-Nakib&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Nakib&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Nakib&theme=tokyo-night&hide_border=true&area=true"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🛍️ **Bagddash** | Modern Fashion E-Commerce Platform | Next.js • TypeScript • Redux |
+| 🩸 **BloodLink** | Smart Blood Donation Platform | Next.js • Prisma • PostgreSQL |
+| 🎓 **Learn With Nakib** | Online Learning Platform | React • Node.js |
+| 🔧 **FixItNow** | Home Service Marketplace | Express • Prisma • PostgreSQL |
+
+---
