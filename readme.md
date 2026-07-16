@@ -76,17 +76,16 @@
 
 
 ---
-
-
 <p align="center">
-  <img src="https://giphy.com/gifs/gptv-code-coding-hacking-jTNG3RF6EwbkpD4LZx" width="500" alt="Coding Animation"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" alt="Coding Animation"/>
 </p>
 
-- Currently learning: Advanced TypeScript & Next.js 15  
-- Goal: Become a full-stack web developer  
-- Design Tools: Figma, Adobe XD  
+- 🌱 **Currently Learning:** Advanced TypeScript & Next.js
+- 🎯 **Goal:** Become a Professional Full-Stack Web Developer
+- 🎨 **Design Tools:** Figma, Adobe XD
 
 ---
 
-> <p align="center" style="color:#ff4d4d; font-size:28px; font-weight:bold;">“Code it beautifully, build it smartly, and ship it proudly.”</p>
-
+<p align="center">
+  <i>"Code it beautifully, build it smartly, and ship it proudly."</i> 🚀
+</p>
