@@ -79,7 +79,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="500" alt="Coding Animation"/>
+  <img src="https://giphy.com/gifs/gptv-code-coding-hacking-jTNG3RF6EwbkpD4LZx" width="500" alt="Coding Animation"/>
 </p>
 
 - Currently learning: Advanced TypeScript & Next.js 15  
