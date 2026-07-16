@@ -96,24 +96,29 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=220&section=header&text=Always%20Learning%20•%20Always%20Building&fontSize=36&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" alt="Coding Animation" />
 </p>
 
 <p align="center">
+  💻 <strong>Frontend Developer</strong> passionate about building modern web applications.
+  <br><br>
 
-🌱 <b>Currently Learning</b><br>
-Advanced TypeScript • Next.js • Backend Architecture
+  🌱 <strong>Currently Learning</strong><br>
+  Advanced TypeScript • Next.js • Backend Architecture
 
-🎯 <b>Goal</b><br>
-Become a Professional Full-Stack Web Developer
+  <br><br>
 
-🎨 <b>Design Tools</b><br>
-Figma • Adobe XD
+  🎯 <strong>Goal</strong><br>
+  Become a Professional Full-Stack Web Developer
 
+  <br><br>
+
+  🎨 <strong>Design Tools</strong><br>
+  Figma • Adobe XD
 </p>
 
 <p align="center">
-  <sub><i>"Code it beautifully, build it smartly, and ship it proudly."</i> 🚀</sub>
+  <em>"Code it beautifully, build it smartly, and ship it proudly."</em> 🚀
 </p>
 
 ---
