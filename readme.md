@@ -1,29 +1,33 @@
-<!-- ========================= -->
-<!--        HERO SECTION       -->
-<!-- ========================= -->
+<!-- ===================================================== -->
+<!--                    HERO SECTION                        -->
+<!-- ===================================================== -->
 
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Ahmed Nakib Banner"/>
+  <img src="./assets/banner.png" alt="Ahmed Nakib Banner" width="100%" />
 </p>
 
 <h1 align="center">
-  Hi 👋 I'm Ahmed Nakib
+  Hi 👋, I'm <span style="color:#00C4FF;">Ahmed Nakib</span>
 </h1>
 
 <h3 align="center">
-Frontend Developer from Bangladesh 🇧🇩
+Frontend Developer • React • Next.js • TypeScript
 </h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2500&pause=800&color=00C4FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Applications;Clean+Code+%7C+Beautiful+UI;Always+Learning+New+Technologies"/>
-
+  Passionate about building fast, scalable and user-friendly web applications with modern technologies.
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2800&pause=900&color=00C4FF&center=true&vCenter=true&width=720&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Applications;Clean+Code+%7C+Beautiful+UI;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<br>
+
+<p align="center">
+
+<a href="office.nakib@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/nakibulislam2003/">
@@ -42,11 +46,7 @@ Frontend Developer from Bangladesh 🇧🇩
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Ahmed-Nakib&style=for-the-badge&color=0e75b6"/>
-
-<img src="https://img.shields.io/github/followers/Ahmed-Nakib?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/Ahmed-Nakib?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Ahmed-Nakib&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
 
 </p>
 
@@ -61,11 +61,16 @@ Role: Frontend Developer
 
 Location: Bangladesh 🇧🇩
 
-Current Focus:
+Currently Learning:
   - Advanced TypeScript
   - Next.js
   - Backend Development
   - System Design
+
+Currently Building:
+  - BloodLink
+  - Bagddash
+  - Learn With Nakib
 
 Tech Stack:
   - React
@@ -76,131 +81,28 @@ Tech Stack:
   - Express
   - MongoDB
   - PostgreSQL
+  - Prisma ORM
+
+Interested In:
+  - Full Stack Development
+  - Open Source
+  - Scalable Web Applications
 
 Goal:
-  Become a Professional Full-Stack Developer
+  Become a Professional Full-Stack Software Engineer
 
 Fun Fact:
-  I love building beautiful and scalable web applications.
+  I enjoy turning ideas into real-world web applications.
 ```
 
 ---
-<!-- ========================= -->
-<!--      TECH STACK           -->
-<!-- ========================= -->
 
-# 💻 Tech Stack
+## 🚀 What I'm Working On
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,postgres,prisma,mysql,firebase,git,github,vscode,figma,vercel,docker"/>
-
-</p>
+- 🌱 Learning **Advanced TypeScript & Backend Architecture**
+- ⚡ Building **Modern Full-Stack Applications**
+- 🎯 Improving **Problem Solving & System Design**
+- 🤝 Open to **Collaboration & Open Source**
+- 💬 Ask me about **React, Next.js, TypeScript & Tailwind CSS**
 
 ---
-
-# 🚀 Featured Technologies
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Framework-Next.js-000000?style=for-the-badge&logo=next.js"/>
-
-<img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Nakib&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=Ahmed-Nakib&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Nakib&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Nakib&theme=tokyo-night&hide_border=true&area=true"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🛍️ **Bagddash** | Modern Fashion E-Commerce Platform | Next.js • TypeScript • Redux |
-| 🩸 **BloodLink** | Smart Blood Donation Platform | Next.js • Prisma • PostgreSQL |
-| 🎓 **Learn With Nakib** | Online Learning Platform | React • Node.js |
-| 🔧 **FixItNow** | Home Service Marketplace | Express • Prisma • PostgreSQL |
-
----
-
----
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://github.com/Ahmed-Nakib">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/nakibulislam2003">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/mohiuddin.nakib.9">
-    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
-</p>
-
---->
-
-
----
-
-<p align="center">
-
-<i>💡 Code it beautifully, build it smartly, and ship it proudly.</i>
-
-</p>
-
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile ⭐
-</h3>
-
-<p align="center">
-If you like my work, consider giving a ⭐ to my repositories.
-</p>
-<p align="center">
-If you like my work, don't forget to ⭐ my repositories.
-</p>
-
-<p align="center">
-Made with ❤️ by <strong>Ahmed Nakib</strong>
-</p>
