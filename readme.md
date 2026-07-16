@@ -90,35 +90,3 @@
   <i>"Code it beautifully, build it smartly, and ship it proudly."</i> 🚀
 </p>
 
-
----
-
-<h2 align="center">👨‍💻 About Me</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" alt="Coding Animation" />
-</p>
-
-<p align="center">
-  💻 <strong>Frontend Developer</strong> passionate about building modern web applications.
-  <br><br>
-
-  🌱 <strong>Currently Learning</strong><br>
-  Advanced TypeScript • Next.js • Backend Architecture
-
-  <br><br>
-
-  🎯 <strong>Goal</strong><br>
-  Become a Professional Full-Stack Web Developer
-
-  <br><br>
-
-  🎨 <strong>Design Tools</strong><br>
-  Figma • Adobe XD
-</p>
-
-<p align="center">
-  <em>"Code it beautifully, build it smartly, and ship it proudly."</em> 🚀
-</p>
-
----
