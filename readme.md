@@ -209,3 +209,86 @@ Fun Fact:
 </p>
 
 ---
+<!-- ===================================================== -->
+<!--                GITHUB TROPHIES                        -->
+<!-- ===================================================== -->
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Nakib&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+<!-- ===================================================== -->
+<!--                CONNECT WITH ME                        -->
+<!-- ===================================================== -->
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/nakibulislam2003/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.facebook.com/mohiuddin.nakib.9">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Ahmed-Nakib">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<!-- ===================================================== -->
+<!--                 PROFILE VIEWS                         -->
+<!-- ===================================================== -->
+
+# 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ahmed-Nakib&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+</p>
+
+---
+
+<!-- ===================================================== -->
+<!--                    QUOTE                              -->
+<!-- ===================================================== -->
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+<!-- ===================================================== -->
+<!--                     FOOTER                            -->
+<!-- ===================================================== -->
+
+<h3 align="center">
+⭐ Thanks for Visiting My Profile ⭐
+</h3>
+
+<p align="center">
+I appreciate your time visiting my GitHub profile.
+</p>
+
+<p align="center">
+If you find my work helpful, consider giving a ⭐ to my repositories.
+</p>
+
+<p align="center">
+Made with ❤️ by <strong>Ahmed Nakib</strong>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=120&section=footer"/>
+</p>
