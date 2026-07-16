@@ -192,9 +192,10 @@ Fun Fact:
 # 🚀 Featured Projects
 
 <table>
+
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🛍️ Bagddash
 
@@ -216,7 +217,8 @@ Fun Fact:
 
 </td>
 
-<td width="50%" valign="top">
+
+<td width="50%" valign="top" align="center">
 
 ### 🩸 BloodLink
 
@@ -240,9 +242,10 @@ Fun Fact:
 
 </tr>
 
+
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🎓 Learn With Nakib
 
@@ -264,7 +267,8 @@ Fun Fact:
 
 </td>
 
-<td width="50%" valign="top">
+
+<td width="50%" valign="top" align="center">
 
 ### 🔧 FixItNow
 
@@ -287,23 +291,16 @@ Fun Fact:
 </td>
 
 </tr>
+
 </table>
 
+
 ---
 
 <p align="center">
+
 💡 <i>More exciting projects are coming soon...</i> 🚀
-</p>
 
----
-<!-- ===================================================== -->
-<!--                GITHUB TROPHIES                        -->
-<!-- ===================================================== -->
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Nakib&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" />
 </p>
 
 ---
