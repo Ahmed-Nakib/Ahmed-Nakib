@@ -44,11 +44,6 @@ Frontend Developer • React • Next.js • TypeScript
 
 </p>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Ahmed-Nakib&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
-
-</p>
 
 ---
 
@@ -303,43 +298,6 @@ Fun Fact:
 
 </p>
 
----
-
-<!-- ===================================================== -->
-<!--                CONNECT WITH ME                        -->
-<!-- ===================================================== -->
-
-# 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/nakibulislam2003/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://www.facebook.com/mohiuddin.nakib.9">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/Ahmed-Nakib">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<!-- ===================================================== -->
-<!--                 PROFILE VIEWS                         -->
-<!-- ===================================================== -->
-
-# 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahmed-Nakib&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
-</p>
 
 ---
 
