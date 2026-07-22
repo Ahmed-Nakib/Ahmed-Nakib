@@ -3,11 +3,11 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="./assets/banner.png" alt="Ahmed Nakib Banner" width="100%" />
+  <img src="./assets/banner.png" alt="Nakibul Islam Banner" width="100%" />
 </p>
 
 <h1 align="center">
-  Hi 👋, I'm <span style="color:#00C4FF;">Ahmed Nakib</span>
+  Hi 👋, I'm <span style="color:#00C4FF;">Nakibul Islam</span>
 </h1>
 
 <h3 align="center">
@@ -38,7 +38,7 @@ Frontend Developer • React • Next.js • TypeScript
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Ahmed-Nakib">
+<a href="https://github.com/nakib-code">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -50,7 +50,7 @@ Frontend Developer • React • Next.js • TypeScript
 # 👨‍💻 About Me
 
 ```yaml
-Name: Ahmed Nakib
+Name: Nakibul Islam
 
 Role: Frontend Developer
 
@@ -328,7 +328,7 @@ If you find my work helpful, consider giving a ⭐ to my repositories.
 </p>
 
 <p align="center">
-Made with ❤️ by <strong>Ahmed Nakib</strong>
+Made with ❤️ by <strong>Nakibul Islam</strong>
 </p>
 
 <p align="center">
